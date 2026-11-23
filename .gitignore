@@ -1,0 +1,16 @@
+# Raw dataset (65 GB zips, far above GitHub's 100 MB limit)
+*.zip
+data/OSSGameBench/
+data/tmp/
+
+# Large intermediate files (re-created by the step scripts)
+data/check.parquet
+data/closed_bugs.parquet
+
+# Word temp/lock files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/

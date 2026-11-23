@@ -1,0 +1,4 @@
+measure,projects,median_difference,share_asset_higher,p_value
+ttc_days,47,9.39,0.74,4.120021452465466e-05
+n_issue_comments,47,0.0,0.36,0.5307828880182528
+n_pr_comments,47,0.0,0.45,0.00012782574441825293
